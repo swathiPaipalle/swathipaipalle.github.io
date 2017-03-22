@@ -1,0 +1,8 @@
+title: Swathipaipalle.GitHub.io
+description: Code Samples
+google_analytics: UA-74683252-1
+show_downloads: true
+theme: jekyll-theme-dinky
+
+gems:
+  - jekyll-mentions
