@@ -1,12 +1,4 @@
-    <header>
-      <h1>SwathiPaipalle.GitHub.io</h1>
-      <p>Code Samples</p>
-      
-      <div id="banner">
-        <span id="logo"></span>
-        <a href="https://github.com/swathiPaipalle" class="button fork"><strong>View On GitHub</strong></a>
-      </div><!-- end banner -->
-    </header>
+    
 
     <div class="wrapper">
       <nav>
