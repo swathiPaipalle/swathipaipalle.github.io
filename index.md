@@ -1,10 +1,6 @@
     
 
-    <div class="wrapper">
-      <nav>
-        <ul></ul>
-      </nav>
-      <section>
+    
         <h2><a id="card-stack" class="anchor" href="#card-stack" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Card-stack</h2>
         <p>Rotate card animation using AngularJs</p>
         <p>
@@ -53,9 +49,4 @@
           <a href="http://swathipaipalle.github.io/React-code-school/index.html">http://swathipaipalle.github.io/React-code-school/</a><br>
           <a href="https://github.com/swathiPaipalle/React-code-school">Fork Here</a>
         </p>
-      </section>
-      
-      <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
-      </footer>
-    </div>
+
